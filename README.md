@@ -1,6 +1,6 @@
 # Data Science Salary Trends 2023
 
-![Dataset Banner](images/banner.png)
+![Dataset Banner](https://media.licdn.com/dms/image/D5612AQGjRpiO94L9Zw/article-cover_image-shrink_720_1280/0/1686844536561?e=1719446400&v=beta&t=WyiC38_qYOshQbjC96cO6iZ_6Qqa_Ah9HoCT9kvxL1A)
 
 ## Introduction
 
@@ -31,14 +31,20 @@ To perform the extra part of Exploratory Data Analysis (EDA) on this dataset, fo
 
    After completing your visualizations, continue with the following steps:
 
-   ![Screenshot 1](images/screenshot1.png)
-   **Question 1: How does salary vary across different experience levels?**
+   **Question 1: salary distribution wrt company size.**
+   ![Screenshot 1](https://i.ibb.co/HKL9jgL/SML.png)
 
-   ![Screenshot 2](images/screenshot2.png)
-   **Question 2: What are the salary distributions for different job titles?**
 
-   ![Screenshot 3](images/screenshot3.png)
+   
+   **Question 2: comparision bw average salary of data engineer and data scientist.**
+   ![Screenshot 2](https://i.ibb.co/VmBd9FV/Pie.png)
+
+
+
+
    **Question 3: Is there a correlation between company size and average salary?**
+   ![Screenshot 3](https://i.ibb.co/DG1vCqs/ET.png)
+
 
 By following these steps, you'll be able to focus on the extra part of your Exploratory Data Analysis and gain valuable insights into the dataset.
 
