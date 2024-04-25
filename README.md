@@ -31,18 +31,17 @@ To perform the extra part of Exploratory Data Analysis (EDA) on this dataset, fo
 
    After completing your visualizations, continue with the following steps:
 
-   **Question 1: salary distribution wrt company size.**
+   # Question 1: salary distribution wrt company size.
    ![Screenshot 1](https://i.ibb.co/HKL9jgL/SML.png)
 
+   &nbsp;
 
-   
-   **Question 2: comparision bw average salary of data engineer and data scientist.**
+   # Question 2: comparison between average salary of data engineer and data scientist.
    ![Screenshot 2](https://i.ibb.co/VmBd9FV/Pie.png)
 
+   &nbsp;
 
-
-
-   **Question 3: Is there a correlation between company size and average salary?**
+   # Question 3: average salary of da, ds, de based on employment type.
    ![Screenshot 3](https://i.ibb.co/DG1vCqs/ET.png)
 
 
@@ -53,5 +52,3 @@ By following these steps, you'll be able to focus on the extra part of your Expl
 ---
 
 **Note:** If you have any questions or suggestions regarding the dataset, feel free to reach out or open an issue in this repository. Your feedback is highly appreciated!
-
----
